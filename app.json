@@ -1,0 +1,17 @@
+{
+  "name": "RAG-Based Thai Recipe Generator Agent",
+  "description": "AI-powered Thai Recipe Generator using Retrieval-Augmented Generation (RAG), IBM watsonx Orchestrate, and IBM Granite Models.",
+  "keywords": [
+    "IBM",
+    "RAG",
+    "AI",
+    "Granite",
+    "Thai Recipes",
+    "watsonx",
+    "Recipe Generator"
+  ],
+  "website": "",
+  "repository": "https://github.com/YOUR_USERNAME/RAG-Based-Thai-Recipe-Generator-Agent",
+  "success_url": "/",
+  "env": {}
+}
